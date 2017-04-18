@@ -1,0 +1,12 @@
+@charset "utf-8";
+p.serif {
+	font-size: 30px;
+     font-family:  Segoe, Segoe UI, DejaVu Sans, Trebuchet MS, Verdana," sans-serif" 
+}
+
+p.sansserif {
+    font-family: Segoe, Segoe UI, DejaVu Sans, Trebuchet MS, Verdana," sans-serif";
+}
+body {
+	background-color: whitesmoke;
+}
